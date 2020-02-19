@@ -1,9 +1,9 @@
 object Encrypter: TEncrypter
   Left = 1204
   Top = 122
+  Width = 475
+  Height = 800
   Caption = #1064#1080#1092#1088#1072#1090#1086#1088
-  ClientHeight = 763
-  ClientWidth = 467
   Color = clBtnFace
   Constraints.MaxHeight = 800
   Constraints.MaxWidth = 475
@@ -59,6 +59,7 @@ object Encrypter: TEncrypter
     Top = 16
     Width = 249
     Height = 24
+    ItemHeight = 16
     TabOrder = 0
     OnChange = TypeOfEncrChange
     OnKeyPress = TypeOfEncrKeyPress
