@@ -1,0 +1,15 @@
+__history
+*.txt
+*.~dpr
+*.cfg
+*.dof
+*.dproj.local
+*.identcache
+*.exe
+*.res
+*.stat
+*.~ddp
+*.~dfm
+*.~pas
+*.dcu
+*.ddp
